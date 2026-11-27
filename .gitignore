@@ -1,0 +1,5 @@
+.build/
+.DS_Store
+Needle.app/
+Needle*.zip
+Sources/Needle/Resources/GoogleOAuth.json
